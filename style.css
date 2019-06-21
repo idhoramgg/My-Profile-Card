@@ -83,4 +83,7 @@ img:hover {
 a{
   color: #333;
 }
+a:hover {
+  color: red;
+}
 
